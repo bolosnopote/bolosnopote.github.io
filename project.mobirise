@@ -53,7 +53,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "Aprenda através de Vídeo Aulas o Passo a Passo de como fazer Fantásticos Bolos no\nPote Gourmet! Receitas Deliciosas, Exclusivas e detalhadas para montar seu Negócio\nLucrativo em poucos dias. Acesse o link abaixo e adquira já o Curso Profissional Bolos\nno Pote."
   },
   "pages": {
     "index.html": {
