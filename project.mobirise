@@ -54,7 +54,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<!-- MailMunch for Guilherme -->\n<!-- Paste this code right before the </head> tag on every page of your site. -->\n<script src=\"//a.mailmunch.co/app/v1/site.js\" id=\"mailmunch-script\" data-mailmunch-site-id=\"795412\" async=\"async\"></script>"
+    "google-analytics": ""
   },
   "pages": {
     "obrigado.html": {
