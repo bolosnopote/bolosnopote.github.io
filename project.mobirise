@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bolo no pote artesanal",
-    "currentPage": "ebook-gratis.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,7 +54,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": ""
+    "google-analytics": "<!-- MailMunch for Guilherme -->\n<!-- Paste this code right before the </head> tag on every page of your site. -->\n<script src=\"//a.mailmunch.co/app/v1/site.js\" id=\"mailmunch-script\" data-mailmunch-site-id=\"795412\" async=\"async\"></script>"
   },
   "pages": {
     "obrigado.html": {
